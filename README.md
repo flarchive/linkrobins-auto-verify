@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of linkrobins/auto-verify.** Not for installation: use [Packagist](https://packagist.org/packages/linkrobins/auto-verify) or the [upstream repository](https://github.com/linkrobins/auto-verify).
 
-**0** versions archived · Latest: [`v1.1.2`](https://github.com/flarchive/linkrobins-auto-verify/tree/archive/v1.1.2) · License: `MIT` · Flarum: `^2.0`
+**6** versions archived · Latest: [`v1.1.2`](https://github.com/flarchive/linkrobins-auto-verify/tree/archive/v1.1.2) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.1` | 2026-05-09 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-auto-verify/tree/archive/v1.0.1) |
+| `v1.0.2` | 2026-05-28 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-auto-verify/tree/archive/v1.0.2) |
+| `v1.00` | 2026-05-01 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-auto-verify/tree/archive/v1.00) |
+| `v1.1.0` | 2026-06-23 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-auto-verify/tree/archive/v1.1.0) |
+| `v1.1.1` | 2026-07-04 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-auto-verify/tree/archive/v1.1.1) |
+| `v1.1.2` | 2026-08-13 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-auto-verify/tree/archive/v1.1.2) |
 
 Catalog entry: [packages/linkrobins-auto-verify.json](https://github.com/flarchive/archive-index/blob/main/packages/linkrobins-auto-verify.json)
 
